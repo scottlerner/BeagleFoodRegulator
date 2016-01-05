@@ -1,2 +1,2 @@
-# FoodRegulator
+# BeagleFoodRegulator
 A small Arduino project.
